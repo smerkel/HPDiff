@@ -1,0 +1,20 @@
+VERSION:  4
+COMMENT: Zircomium HCP (JCPDS, Liu et al, J. Appl. Phys., 104, 076102 ,2008)
+K0:           94.8
+K0P:           3.0
+SYMMETRY: HEXAGONAL
+A:            3.232
+C:            5.147
+VOLUME:        46.562
+ALPHA:    90
+BETA:     90
+GAMMA:    120
+DIHKL:        2.7990      29.4   1   0   0
+DIHKL:        2.5730      31.5   0   0   2
+DIHKL:        2.4590     100.0   1   0   1
+DIHKL:        1.8940        22   1   0   2
+DIHKL:        1.6160      26.2   1   1   0
+DIHKL:        1.4630      30.6   1   0   3
+DIHKL:        1.3990       5     2   0   0
+DIHKL:        1.3680      32.0   1   1   2
+DIHKL:        1.3500      22.5   2   0   1           

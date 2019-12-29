@@ -1,0 +1,16 @@
+VERSION:  4
+COMMENT: Zr-beta bcc (JCPDS, EOS n/a)
+K0:          9999
+K0P:         4.0
+SYMMETRY: CUBIC
+A:            3.545
+VOLUME:       44.56
+ALPHA:    90
+BETA:     90
+GAMMA:    90
+DIHKL:        2.5070     100.0   1   1   0
+DIHKL:        1.7726      24.0   2   0   0
+DIHKL:        1.4474      57.0   2   1   1
+DIHKL:        1.2535      20.0   2   2   0
+DIHKL:        1.1211      34.0   3   1   0
+DIHKL:        1.0234      10.0   2   2   2

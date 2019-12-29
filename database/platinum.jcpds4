@@ -1,0 +1,16 @@
+VERSION: 4
+COMMENT: Platinum (JCPDS 4-0802, EOS Holmes et al, JAP, 1989)
+SYMMETRY: CUBIC
+K0: 266 
+K0P: 5.81
+ALPHAT: 0.261e-4
+A: 3.9231
+DIHKL: 2.265       100     1   1   1
+DIHKL: 1.962        53     2   0   0
+DIHKL: 1.387        31     2   2   0
+DIHKL: 1.1826       33     3   1   1
+DIHKL: 1.1325       12     2   2   2
+DIHKL: 0.9808        6     4   0   0
+DIHKL: 0.9000       22     3   3   1
+DIHKL: 0.8773       20     4   2   0
+DIHKL: 0.8008       29     4   2   2

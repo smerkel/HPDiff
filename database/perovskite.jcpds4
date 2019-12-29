@@ -1,0 +1,60 @@
+VERSION: 4
+COMMENT: mincryst MgSiO3 0.001 GPa, EOS Fiquet PEPI 1998
+SYMMETRY: ORTHORHOMBIC
+A: 4.7770
+B: 4.9270
+C: 6.8977
+K0: 261
+K0P: 4.0
+DK0DT: -0.027
+ALPHAT: 1.17e-5
+DALPHADT: 1.51e-8
+DIHKL:   3.4488   9.6   0   0   2
+DIHKL:   3.4297   22.2   1   1   0
+DIHKL:   3.071   9.8   1   1   1
+DIHKL:   2.4635   24.6   0   2   0
+DIHKL:   2.4319   100   1   1   2
+DIHKL:   2.3885   18.9   2   0   0
+DIHKL:   2.1895   3.5   1   2   0
+DIHKL:   2.1493   10.2   2   1   0
+DIHKL:   2.0869   8.9   1   2   1
+DIHKL:   2.0717   20.2   1   0   3
+DIHKL:   2.052   16.9   2   1   1
+DIHKL:   2.0046   11.9   0   2   2
+DIHKL:   1.9636   7.1   2   0   2
+DIHKL:   1.9098   12.1   1   1   3
+DIHKL:   1.8485   9.2   1   2   2
+DIHKL:   1.8241   4.3   2   1   2
+DIHKL:   1.7244   33.3   0   0   4
+DIHKL:   1.7148   53.3   2   2   0
+DIHKL:   1.6809   6   0   2   3
+DIHKL:   1.6642   7.1   2   2   1
+DIHKL:   1.5856   2.1   1   2   3
+DIHKL:   1.5701   2.5   2   1   3
+DIHKL:   1.5531   7.6   1   3   0
+DIHKL:   1.5406   2.9   1   1   4
+DIHKL:   1.5355   5.4   2   2   2
+DIHKL:   1.5152   13.1   1   3   1
+DIHKL:   1.4799   2.6   3   1   1
+DIHKL:   1.4161   16.3   1   3   2
+DIHKL:   1.4127   15.6   0   2   4
+DIHKL:   1.3981   13.9   2   0   4
+DIHKL:   1.3872   38.2   3   1   2
+DIHKL:   1.3373   1.1   3   2   0
+DIHKL:   1.3254   1.3   1   0   5
+DIHKL:   1.287   4.3   1   3   3
+DIHKL:   1.2318   3.7   0   4   0
+DIHKL:   1.2159   18.2   2   2   4
+DIHKL:   1.2126   1.6   0   4   1
+DIHKL:   1.1942   3.2   4   0   0
+DIHKL:   1.1927   2.2   1   4   0
+DIHKL:   1.1672   2.5   1   2   5
+DIHKL:   1.1663   2.1   2   3   3
+DIHKL:   1.161   1.8   2   1   5
+DIHKL:   1.1606   1.3   4   1   0
+DIHKL:   1.16   1.4   0   4   2
+DIHKL:   1.154   3.2   1   3   4
+DIHKL:   1.1278   1   3   3   1
+DIHKL:   1.1   1   4   1   2
+DIHKL:   1.0947   1.8   2   4   0
+DIHKL:   1.09   8.1   1   1   6

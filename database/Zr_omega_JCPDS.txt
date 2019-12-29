@@ -1,0 +1,23 @@
+VERSION:  4
+COMMENT: Zircomium omega (JCPDS, EOS Akahama et al, J. Phys. Soc. Jpn., 60, 3211, 1991)
+K0:          121
+K0P:          1.69
+SYMMETRY: HEXAGONAL
+A:            5.019
+C:            3.122
+VOLUME:       68.1
+ALPHA:    90
+BETA:     90
+GAMMA:    120
+DIHKL:        3.1300      12.0   0   0   1
+DIHKL:        2.5270      72.0   1   1   0
+DIHKL:        1.9610       9.0   1   1   1
+DIHKL:        1.7920      41.0   2   0   1
+DIHKL:        1.5660      23.0   0   0   2
+DIHKL:        1.4570     100.0   3   0   0
+     
+# Cell parameters adjusted to P=0 using EOS parameters of Akahama
+# JSCPS cell parameters
+# 
+# A:            5.039
+# C:            3.136
